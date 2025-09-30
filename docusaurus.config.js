@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://orderla-co-docs.github.io',  // Your GitHub Pages URL
+  url: 'https://irekasoft.github.io',  // Your GitHub username/organization
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/orderla-docs/',              // Repo name
+  baseUrl: '/orderla-co-docs/',              // Must match your repo name
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'irekasoft',      // GitHub username or org
-  projectName: 'orderla-docs',            // Repo name
+  projectName: 'orderla-co-docs',            // Must match your repo name
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
