@@ -30,3 +30,44 @@
 }
 
 @import 'bootstrap-icons/font/bootstrap-icons.css';
+
+h1 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  /* color: var(--ifm-color-primary); */
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+@media (min-width: 500px) {
+  .img-center {
+    max-width: 400px;
+  }
+}
+  
