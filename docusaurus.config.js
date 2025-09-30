@@ -24,6 +24,7 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/orderla-co-docs/',              // Must match your repo name
+  trailingSlash: true,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -85,8 +86,7 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Documentation',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          },          
           {
             href: 'https://github.com/orderla-commerce',
             label: 'GitHub',
