@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorderla_co_docs=self.webpackChunkorderla_co_docs||[]).push([[3533],{5142:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/orderla-co-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

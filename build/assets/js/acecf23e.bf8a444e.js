@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorderla_co_docs=self.webpackChunkorderla_co_docs||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/orderla-co-docs/blog","blogTitle":"Blog","authorsListPath":"/orderla-co-docs/blog/authors"}')}}]);
