@@ -20,7 +20,8 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Get Started - 5min ⏱️
+            Get Started             
+            <i className="bi bi-chevron-right" style={{marginLeft: '6px'}}></i>
           </Link>
         </div>
       </div>
